@@ -255,7 +255,7 @@ transition: 0.5s;
 {
     position: absolute;
     width: 37.5rem;
-    margin-top: 40vh;
+    margin-top: 20vw;
     display: flex;
     justify-content: center;
 }
